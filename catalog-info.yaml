@@ -4,5 +4,5 @@ metadata:
   name: luigi
 spec:
   type: library
-  lifecyle: development
+  lifecycle: development
   owner: dataex
